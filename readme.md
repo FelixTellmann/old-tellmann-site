@@ -1,5 +1,11 @@
 # FelixTellmann.com - Blog & Project Portfolio
 
+
+My Old Personal Website - replaced by: www.felixtellmann.com
+
+to visit the old page visit: https://old-tellmann-site.vercel.app/
+
+
 // TODO: Write a proper project description.
 
 My personal portfolio and blog website. Developed to showcase my skills in design and development, to contribute towards the community with open source projects and helpful code snippets. The website will
